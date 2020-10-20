@@ -9,7 +9,7 @@ from discord.ext import commands
 __version__='1.0.0'
 
 load_dotenv()
-TOKEN = os.getenv('DISCORD_TOKEN')
+TOKEN = os.getenv('NzY4MTU1MDA2ODUwOTU3Mzgz.X48WGQ.oYM3uDiOFZ8Qpnw22kAIfRqjlm8')
 
 DEFAULT_PREFIX = '+'
 
